@@ -1,0 +1,14 @@
+INPUT(
+./.obj\release\chatdialog.o
+./.obj\release\client.o
+./.obj\release\connection.o
+./.obj\release\main.o
+./.obj\release\peermanager.o
+./.obj\release\server.o
+./.obj\release\network-chat_plugin_import.o
+./.obj\release\moc_chatdialog.o
+./.obj\release\moc_client.o
+./.obj\release\moc_connection.o
+./.obj\release\moc_peermanager.o
+./.obj\release\moc_server.o
+);

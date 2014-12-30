@@ -1,0 +1,12 @@
+INPUT(
+./.obj\debug\main.o
+./.obj\debug\printview.o
+./.obj\debug\spreadsheet.o
+./.obj\debug\spreadsheetdelegate.o
+./.obj\debug\spreadsheetitem.o
+./.obj\debug\spreadsheet_plugin_import.o
+./.obj\debug\qrc_spreadsheet.o
+./.obj\debug\moc_printview.o
+./.obj\debug\moc_spreadsheet.o
+./.obj\debug\moc_spreadsheetdelegate.o
+);

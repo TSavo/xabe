@@ -1,0 +1,13 @@
+INPUT(
+./.obj\release\main.o
+./.obj\release\xform.o
+./.obj\release\arthurstyle.o
+./.obj\release\arthurwidgets.o
+./.obj\release\hoverpoints.o
+./.obj\release\affine_plugin_import.o
+./.obj\release\qrc_shared.o
+./.obj\release\qrc_affine.o
+./.obj\release\moc_xform.o
+./.obj\release\moc_arthurwidgets.o
+./.obj\release\moc_hoverpoints.o
+);

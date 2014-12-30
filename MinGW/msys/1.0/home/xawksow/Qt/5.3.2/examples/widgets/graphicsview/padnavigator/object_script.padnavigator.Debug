@@ -1,0 +1,12 @@
+INPUT(
+./.obj\debug\main.o
+./.obj\debug\roundrectitem.o
+./.obj\debug\flippablepad.o
+./.obj\debug\padnavigator.o
+./.obj\debug\splashitem.o
+./.obj\debug\padnavigator_plugin_import.o
+./.obj\debug\qrc_padnavigator.o
+./.obj\debug\moc_roundrectitem.o
+./.obj\debug\moc_padnavigator.o
+./.obj\debug\moc_splashitem.o
+);

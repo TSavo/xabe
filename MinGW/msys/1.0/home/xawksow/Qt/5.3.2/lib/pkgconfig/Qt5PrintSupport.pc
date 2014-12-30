@@ -1,0 +1,14 @@
+prefix=G:/build-env/MinGW/msys/1.0/home/xawksow/Qt/5.3.2
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 PrintSupport
+Description: Qt PrintSupport module
+Version: 5.3.2
+Libs: -L${libdir} -lQt5PrintSupportd 
+Libs.private: -LG:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\libpng-1.6.15\.libs -LG:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\openssl-1.0.1j -LG:/build-env/MinGW/msys/1.0/home/xawksow/Qt/5.3.2/lib -lQt5Widgetsd -lQt5Guid -lgdi32 -lcomdlg32 -loleaut32 -limm32 -lwinmm -lpng -lQt5Cored -lole32 -luuid -lws2_32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lz -lwinspool -lcomdlg32 -lgdi32 -luser32  
+Cflags: -I${includedir}/QtPrintSupport -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Widgets
+

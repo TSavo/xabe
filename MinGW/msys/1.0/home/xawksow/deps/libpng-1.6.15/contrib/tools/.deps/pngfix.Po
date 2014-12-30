@@ -1,0 +1,144 @@
+contrib/tools/pngfix.o: contrib/tools/pngfix.c \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/limits.h \
+ g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/syslimits.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/limits.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/string.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/ctype.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/errno.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/assert.h \
+ contrib/tools/../../png.h contrib/tools/../../pnglibconf.h \
+ contrib/tools/../../pngconf.h \
+ g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stddef.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/setjmp.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/time.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_timeval.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/time_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sys/timeb.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/pthread_time.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/zlib.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/zconf.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sys/types.h \
+ g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stdarg.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/unistd.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/io.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/io_s.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/process.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/getopt.h \
+ g:/build-env/mingw64/x86_64-w64-mingw32/include/pthread_unistd.h
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/stdlib.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/vadefs.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/limits.h:
+
+g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/syslimits.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/limits.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/malloc.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/stdio.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/swprintf.inl:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/string.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/ctype.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/errno.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/assert.h:
+
+contrib/tools/../../png.h:
+
+contrib/tools/../../pnglibconf.h:
+
+contrib/tools/../../pngconf.h:
+
+g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stddef.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/setjmp.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/time.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_timeval.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/time_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sys/timeb.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/pthread_time.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/zlib.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/zconf.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sys/types.h:
+
+g:/build-env/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/stdarg.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/stdarg.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/unistd.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/io.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/sec_api/io_s.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/process.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/getopt.h:
+
+g:/build-env/mingw64/x86_64-w64-mingw32/include/pthread_unistd.h:

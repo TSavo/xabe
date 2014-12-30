@@ -1,0 +1,13 @@
+INPUT(
+./.obj\debug\main.o
+./.obj\debug\composition.o
+./.obj\debug\arthurstyle.o
+./.obj\debug\arthurwidgets.o
+./.obj\debug\hoverpoints.o
+./.obj\debug\composition_plugin_import.o
+./.obj\debug\qrc_shared.o
+./.obj\debug\qrc_composition.o
+./.obj\debug\moc_composition.o
+./.obj\debug\moc_arthurwidgets.o
+./.obj\debug\moc_hoverpoints.o
+);

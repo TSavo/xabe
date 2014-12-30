@@ -1,0 +1,14 @@
+INPUT(
+./.obj\debug\adddialog.o
+./.obj\debug\addresswidget.o
+./.obj\debug\main.o
+./.obj\debug\mainwindow.o
+./.obj\debug\newaddresstab.o
+./.obj\debug\tablemodel.o
+./.obj\debug\addressbook_plugin_import.o
+./.obj\debug\moc_adddialog.o
+./.obj\debug\moc_addresswidget.o
+./.obj\debug\moc_mainwindow.o
+./.obj\debug\moc_newaddresstab.o
+./.obj\debug\moc_tablemodel.o
+);

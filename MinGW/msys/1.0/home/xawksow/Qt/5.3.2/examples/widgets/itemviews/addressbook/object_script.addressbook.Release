@@ -1,0 +1,14 @@
+INPUT(
+./.obj\release\adddialog.o
+./.obj\release\addresswidget.o
+./.obj\release\main.o
+./.obj\release\mainwindow.o
+./.obj\release\newaddresstab.o
+./.obj\release\tablemodel.o
+./.obj\release\addressbook_plugin_import.o
+./.obj\release\moc_adddialog.o
+./.obj\release\moc_addresswidget.o
+./.obj\release\moc_mainwindow.o
+./.obj\release\moc_newaddresstab.o
+./.obj\release\moc_tablemodel.o
+);

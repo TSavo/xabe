@@ -1,0 +1,6 @@
+QMAKE_PRL_BUILD_DIR = G:/build-env/MinGW/msys/1.0/home/xawksow/Qt/5.3.2/src/sql
+QMAKE_PRO_INPUT = sql.pro
+QMAKE_PRL_TARGET = libQt5Sqld
+QMAKE_PRL_CONFIG = lex yacc debug depend_includepath testcase_targets import_plugins import_qpa_plugin incremental_off windows qt warn_on link_prl debug_and_release precompile_header copy_dir_files static rtti no_plugin_manifest qpa win32 mingw gcc pcre compile_examples sse2 sse3 ssse3 sse4_1 sse4_2 avx avx2 largefile create_prl link_prl prepare_docs qt_docs_targets no_private_qt_headers_warning QTDIR_build exceptions_off testcase_exceptions qt_example_installs warning_clean debug DebugBuild Debug build_pass qt_install_module qt_install_headers qmake_cache target_qt create_cmake skip_target_version_ext compiler_supports_fpmath c++11 create_pc debug DebugBuild Debug build_pass have_target staticlib exclusive_builds debug_info no_autoqmake thread moc resources
+QMAKE_PRL_VERSION = 5.3.2
+QMAKE_PRL_LIBS = -LG:\\build-env\\\\MinGW\\msys\\1.0\\home\\xawksow\\\\deps\\libpng-1.6.15\\.libs -LG:\\build-env\\\\MinGW\\msys\\1.0\\home\\xawksow\\\\deps\\openssl-1.0.1j -LG:/build-env/MinGW/msys/1.0/home/xawksow/Qt/5.3.2/lib -lQt5Cored -lole32 -luuid -lws2_32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lz  

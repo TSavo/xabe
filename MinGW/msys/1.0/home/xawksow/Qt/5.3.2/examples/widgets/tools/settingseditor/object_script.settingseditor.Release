@@ -1,0 +1,12 @@
+INPUT(
+./.obj\release\locationdialog.o
+./.obj\release\main.o
+./.obj\release\mainwindow.o
+./.obj\release\settingstree.o
+./.obj\release\variantdelegate.o
+./.obj\release\settingseditor_plugin_import.o
+./.obj\release\moc_locationdialog.o
+./.obj\release\moc_mainwindow.o
+./.obj\release\moc_settingstree.o
+./.obj\release\moc_variantdelegate.o
+);

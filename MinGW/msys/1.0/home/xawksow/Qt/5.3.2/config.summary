@@ -1,0 +1,127 @@
+Environment:
+    INCLUDE=
+      G:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\libpng-1.6.15
+      G:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\openssl-1.0.1j\include
+    LIB=
+      G:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\libpng-1.6.15\.libs
+      G:\build-env\\MinGW\msys\1.0\home\xawksow\\deps\openssl-1.0.1j
+    PATH=
+      G:\build-env\\mingw64\bin
+      
+Configuration:
+    pcre
+    release
+    compile_examples
+Qt Configuration:
+    minimal-config
+    small-config
+    medium-config
+    large-config
+    full-config
+    release
+    c++11
+    static
+    system-zlib
+    no-gif
+    no-jpeg
+    png
+    system-png
+    accessibility
+    openssl
+    native-gestures
+    qpa
+    iconv
+    concurrent
+
+QMAKESPEC...................win32-g++ (detected)
+Architecture................x86_64, features: cx16 mmx sse sse2 sse3
+Host Architecture...........x86_64, features: cx16 mmx sse sse2 sse3
+Maketool....................mingw32-make
+Debug.......................no
+Force debug info............no
+C++11 support...............yes
+Link Time Code Generation...no
+Accessibility support.......yes
+RTTI support................yes
+SSE2 support................yes
+SSE3 support................yes
+SSSE3 support...............yes
+SSE4.1 support..............yes
+SSE4.2 support..............yes
+AVX support.................yes
+AVX2 support................yes
+NEON support................no
+IWMMXT support..............no
+OpenGL support..............no
+Large File support..........yes
+NIS support.................no
+Iconv support...............yes
+Evdev support...............no
+Mtdev support...............no
+Inotify support.............no
+eventfd(7) support..........no
+Glib support................no
+CUPS support................no
+OpenVG support..............no
+OpenSSL support.............yes
+Qt D-Bus support............no
+Qt Widgets module support...yes
+Qt GUI module support.......yes
+QML debugging...............no
+DirectWrite support.........no
+Use system proxies..........no
+
+QPA Backends:
+    GDI.....................yes
+    Direct2D................no
+
+Third Party Libraries:
+    ZLIB support............system
+    GIF support.............no
+    JPEG support............no
+    PNG support.............yes
+    FreeType support........no
+    Fontconfig support......no
+    HarfBuzz-NG support.....no
+    PCRE support............qt
+    ICU support.............no
+    ANGLE...................no
+    Dynamic OpenGL..........no
+
+Styles:
+    Windows.................yes
+    Windows XP..............yes
+    Windows Vista...........yes
+    Fusion..................yes
+    Windows CE..............no
+    Windows Mobile..........no
+
+Sql Drivers:
+    ODBC....................no
+    MySQL...................no
+    OCI.....................no
+    PostgreSQL..............no
+    TDS.....................no
+    DB2.....................no
+    SQLite..................no (qt)
+    SQLite2.................no
+    InterBase...............no
+
+Sources are in..............G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2
+Build is done in............G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2
+Install prefix..............G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2
+Headers installed to........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\include
+Libraries installed to......G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\lib
+Arch-dep. data to...........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2
+Plugins installed to........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\plugins
+Library execs installed to..G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\bin
+QML1 imports installed to...G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\imports
+QML2 imports installed to...G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\qml
+Binaries installed to.......G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\bin
+Arch-indep. data to.........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2
+Docs installed to...........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\doc
+Translations installed to...G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\translations
+Examples installed to.......G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\examples
+Tests installed to..........G:\build-env\MinGW\msys\1.0\home\xawksow\Qt\5.3.2\tests
+WARNING: Using static linking will disable the use of plugins.
+         Make sure you compile ALL needed modules into the library.

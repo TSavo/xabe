@@ -1,0 +1,13 @@
+INPUT(
+./.obj\release\mainwindow.o
+./.obj\release\diagramitem.o
+./.obj\release\main.o
+./.obj\release\arrow.o
+./.obj\release\diagramtextitem.o
+./.obj\release\diagramscene.o
+./.obj\release\diagramscene_plugin_import.o
+./.obj\release\qrc_diagramscene.o
+./.obj\release\moc_mainwindow.o
+./.obj\release\moc_diagramscene.o
+./.obj\release\moc_diagramtextitem.o
+);

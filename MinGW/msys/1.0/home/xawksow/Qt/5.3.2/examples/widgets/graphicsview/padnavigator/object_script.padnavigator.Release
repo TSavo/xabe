@@ -1,0 +1,12 @@
+INPUT(
+./.obj\release\main.o
+./.obj\release\roundrectitem.o
+./.obj\release\flippablepad.o
+./.obj\release\padnavigator.o
+./.obj\release\splashitem.o
+./.obj\release\padnavigator_plugin_import.o
+./.obj\release\qrc_padnavigator.o
+./.obj\release\moc_roundrectitem.o
+./.obj\release\moc_padnavigator.o
+./.obj\release\moc_splashitem.o
+);

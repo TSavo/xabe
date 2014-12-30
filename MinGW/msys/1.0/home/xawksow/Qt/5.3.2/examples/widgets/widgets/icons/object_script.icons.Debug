@@ -1,0 +1,12 @@
+INPUT(
+./.obj\debug\iconpreviewarea.o
+./.obj\debug\iconsizespinbox.o
+./.obj\debug\imagedelegate.o
+./.obj\debug\main.o
+./.obj\debug\mainwindow.o
+./.obj\debug\icons_plugin_import.o
+./.obj\debug\moc_iconpreviewarea.o
+./.obj\debug\moc_iconsizespinbox.o
+./.obj\debug\moc_imagedelegate.o
+./.obj\debug\moc_mainwindow.o
+);

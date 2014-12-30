@@ -1,0 +1,13 @@
+INPUT(
+./.obj\debug\main.o
+./.obj\debug\pathstroke.o
+./.obj\debug\arthurstyle.o
+./.obj\debug\arthurwidgets.o
+./.obj\debug\hoverpoints.o
+./.obj\debug\pathstroke_plugin_import.o
+./.obj\debug\qrc_shared.o
+./.obj\debug\qrc_pathstroke.o
+./.obj\debug\moc_pathstroke.o
+./.obj\debug\moc_arthurwidgets.o
+./.obj\debug\moc_hoverpoints.o
+);

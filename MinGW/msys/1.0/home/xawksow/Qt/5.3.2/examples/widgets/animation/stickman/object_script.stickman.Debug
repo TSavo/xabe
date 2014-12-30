@@ -1,0 +1,15 @@
+INPUT(
+./.obj\debug\main.o
+./.obj\debug\stickman.o
+./.obj\debug\animation.o
+./.obj\debug\node.o
+./.obj\debug\lifecycle.o
+./.obj\debug\graphicsview.o
+./.obj\debug\rectbutton.o
+./.obj\debug\stickman_plugin_import.o
+./.obj\debug\qrc_stickman.o
+./.obj\debug\moc_stickman.o
+./.obj\debug\moc_node.o
+./.obj\debug\moc_graphicsview.o
+./.obj\debug\moc_rectbutton.o
+);
