@@ -13,6 +13,12 @@ cd "$SCRIPTDIR/deps"
 
 source "$SCRIPTDIR/deps/clean.sh"
 
+echo "Cleaning Boost now"
+cmd /c "${BUILDENVPATH}${ARCH}boost_clean.bat"
+
+echo "Cleaning QT now"
+cmd /c "${BUILDENVPATH}${ARCH}qt_clean.bat"
+
 cd "$SCRIPTDIR/coin"
 
 echo "Still cleaning, now its time for your crispy coin."
