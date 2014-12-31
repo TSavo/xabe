@@ -12,6 +12,6 @@ If you want to build a 32bit wallet after building a 64bit wallet or the other w
 you need to be sure to select clean in the build menu before building again.<br />
 <br />
 <br />
-<strong>Donations</strong>
-BTC: 1Mtpk4kPTnpSBQiewhZyUr3wnV6PTYTxLB
-DGC: D8KU86c7sf8L9UPLU3jMLeadgaNsWrYMov
+<strong>Donations</strong><br />
+BTC: 1Mtpk4kPTnpSBQiewhZyUr3wnV6PTYTxLB<br />
+DGC: D8KU86c7sf8L9UPLU3jMLeadgaNsWrYMov<br />
